@@ -2,8 +2,3 @@
 node_modules
 .env
 dist
-=======
-**/node_modules/
-**/.env
-**/dist/
->>>>>>> 50b4a52029903e4f8b06901d3b576f7498d7a681
